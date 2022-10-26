@@ -1,0 +1,3 @@
+C:\Users\USER\Desktop\code\C++\CG\助教課sample\Lab0\Debug\Lab0.exe
+C:\Users\wmlab\Desktop\Lab0\Lab0\Debug\Lab0.exe
+C:\Users\wmlab\Desktop\HW1\Lab0\Debug\Lab0.exe

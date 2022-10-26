@@ -1,0 +1,98 @@
+﻿  Lab0.cpp
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(41,26): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(42,26): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(43,26): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(61,30): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(62,30): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(63,30): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(72,43): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(72,40): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(72,34): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(72,28): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(83,30): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(84,30): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(85,30): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(101,43): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(101,40): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(101,34): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(101,28): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(118,29): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(119,29): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(120,29): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(129,44): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(129,41): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(129,35): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(129,29): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(140,43): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(140,35): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(140,29): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(140,23): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(224,13): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(225,13): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(285,18): warning C4553: '==': 未使用運算式結果; 您是否想要 '='?
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(300,13): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(344,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(347,112): warning C4244: '引數': 將 '_Ty2' 轉換為 'float'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(347,87): warning C4244: '引數': 將 '_Ty1' 轉換為 'float'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(347,61): warning C4244: '引數': 將 '_Ty2' 轉換為 'float'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(347,38): warning C4244: '引數': 將 '_Ty1' 轉換為 'float'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(358,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(369,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(371,116): warning C4244: '引數': 將 '_Ty2' 轉換為 'float'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(371,89): warning C4244: '引數': 將 '_Ty1' 轉換為 'float'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(371,61): warning C4244: '引數': 將 '_Ty2' 轉換為 'float'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(371,38): warning C4244: '引數': 將 '_Ty1' 轉換為 'float'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(379,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(381,118): warning C4244: '引數': 將 '_Ty2' 轉換為 'float'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(381,91): warning C4244: '引數': 將 '_Ty1' 轉換為 'float'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(381,63): warning C4244: '引數': 將 '_Ty2' 轉換為 'float'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\wmlab\Desktop\HW1\Lab0\Lab0.cpp(381,40): warning C4244: '引數': 將 '_Ty1' 轉換為 'float'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty1=int
+          ]
+  Lab0.vcxproj -> C:\Users\wmlab\Desktop\HW1\Lab0\Debug\Lab0.exe
